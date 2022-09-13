@@ -1,2 +1,2 @@
-# exchange_asset_hunter
-交易所打新
+#交易所打新
+临时搞的小工具，暂时只支持okx的
